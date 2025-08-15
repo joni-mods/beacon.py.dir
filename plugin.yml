@@ -1,0 +1,7 @@
+name: Beacon-Plugin
+main: BeaconPlugin
+version: 1.0
+commands:
+  beacon:
+    description: build a beacon in front of the player
+    usage: /beacon
